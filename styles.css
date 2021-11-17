@@ -1,0 +1,21 @@
+nav {
+    background-color: #bfdcae;
+ }
+
+ .phase1Container {
+     margin: auto;
+     width: 50%;
+     text-align: center;
+ }
+
+ .phase2Container {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.phase3Container {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
